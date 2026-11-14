@@ -181,4 +181,13 @@ Nilai suhu 37,8 °C dan 38,5 °C merupakan pengaturan pada program dan perlu div
 
 ---
 
+## 9. Tim
+**Kelompok 3.**
+
+- Bintang Fajar Mustika Aji
+- Djenar Priya A
+- Gilly Achmad F
+- Yogi Eka S
+- Hilda Nur Abidah
+
 **Proyek Inkubator Telur Ayam Otomatis Berbasis ESP32**
